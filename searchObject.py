@@ -54,4 +54,4 @@ if __name__ == '__main__':
     aa = dataSorter(100)
     aa.sortArray()
     print(aa.sortArr)
-    print(aa.binary_sort(0.9, ))
+    print(aa.binary_sort(aa.sortArr[6], 0, 99))

@@ -27,7 +27,7 @@ class yourBank(object):
 class bank2(yourBank):
     def inquiry(self):
       self.balance=self.balance*0.2+ self.balance
-      print(self.balance)
+      return self.balance
 
 if __name__ == '__main__':
   bb=bank2("mm",1000)

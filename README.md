@@ -12,6 +12,6 @@ Practice using an object by adding to the bank account example
 1.Creating an instance of the “dataSorter()” class makes a numpy array of length “numb”.(task1)
 2 using binary search to y find a threshold crossing in large array (task3)
 ## main.py
-1. Add a function to plot a linegraph of the sorted array (y axis) against array index 
-(x axis). (task2)
+1. Add a function to plot a linegraph of the sorted array (y axis) against array index (x axis). (task2)
 2.import binary search from searchObject.py and add a method to plot the sorted array along with a line to show the crossing point found by a binary search (task4)
+'''     def findMin(self, arr):
